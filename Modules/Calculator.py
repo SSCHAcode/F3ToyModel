@@ -9,7 +9,7 @@ import cellconstructor.Structure
 
 
 # Import the fortran libraries
-import fforces.libs as  f3libs
+import fforceslibs as  f3libs
 
 
 
